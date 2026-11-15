@@ -1,0 +1,4 @@
+{
+  "stable": { "version": "1.5.10", "url": "https://github.com/Li-Ziya1/Li-Qinghe/releases/tag/Li-Qinghe-stable" },
+  "beta":   { "version": "1.5.22", "url": "https://github.com/Li-Ziya1/Li-Qinghe/releases/tag/Li-Qinghe-beta" }
+}
