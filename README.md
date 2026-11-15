@@ -124,8 +124,8 @@ changes and puts them back when you turn a tweak off or uninstall the module.
 
 ## Installation
 
-1. Download [Li-Qinghe-v1.5.10-stable.zip](downloads/Li-Qinghe-v1.5.10-stable.zip)
-   (open the file page and tap **Download**), or grab it from the
+1. Download the zip from the [latest stable release](../../releases/tag/Li-Qinghe-stable)
+   (open **Assets** and tap the zip), or grab any other version from the
    [Releases](../../releases) page.
 2. Open your module manager (**AxManager**) and install the zip.
 3. Reboot your device.
@@ -170,7 +170,7 @@ device and ROM, so use it at your own risk.
 
 ## Changelog
 
-See [CHANGELOG.md](CHANGELOG.md) for everything that changed in each version.
+See the [Releases](../../releases) page for everything that changed in each version.
 
 ## Credits
 
